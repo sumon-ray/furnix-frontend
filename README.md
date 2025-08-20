@@ -1,4 +1,4 @@
-# 🛋️ AetherZen Furniture E-commerce Platform
+# 🛋️ Furniture E-commerce Platform
 
 A comprehensive full-stack furniture e-commerce platform supporting both B2C retail and B2B corporate purchasing with advanced features like custom furniture orders, multi-role dashboards, and real-time notifications.
 
